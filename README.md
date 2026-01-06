@@ -43,7 +43,7 @@ Note: The plot includes constant TIT lines and markers for different Pressure Ra
 ## Design Parameters (Default)
 Parameter                Value                    Description.
 
-Flight Condition         Sea Level Static (M=0)   Standard Atmosphere
+Flight Condition        Sea Level Static (M=0)    Standard Atmosphere
 
 Compressor Eff (ηc​)      0.85                     Isentropic
 
@@ -55,6 +55,7 @@ Nozzle Eff (ηn​)          0.98                     Adiabatic
 
 Author
 Husam Aslan Mechanical Engineer. (PhD)
+
 
 
 

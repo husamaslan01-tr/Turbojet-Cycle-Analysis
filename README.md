@@ -41,7 +41,7 @@ Note: The plot includes constant TIT lines and markers for different Pressure Ra
 
 
 ## Design Parameters (Default)
-Parameter                Value                    Description.
+Parameter_______________Value_____________________Description.
 
 Flight Condition        Sea Level Static (M=0)    Standard Atmosphere
 
@@ -55,6 +55,7 @@ Nozzle Eff (ηn​)          0.98                     Adiabatic
 
 Author
 Husam Aslan Mechanical Engineer. (PhD)
+
 
 
 

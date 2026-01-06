@@ -43,18 +43,19 @@ Note: The plot includes constant TIT lines and markers for different Pressure Ra
 ## Design Parameters (Default)
 Parameter_______________Value_____________________Description.
 
-Flight Condition        Sea Level Static (M=0)    Standard Atmosphere
+Flight Condition_________Sea Level Static (M=0)___Standard Atmosphere
 
-Compressor Eff (ηc​)      0.85                     Isentropic
+Compressor Eff (ηc​)______0.85_____________________Isentropic
 
-Turbine Eff (ηt​)         0.90                     Isentropic
+Turbine Eff (ηt​)_________0.90_____________________Isentropic
 
-Burner Eff (ηb​)          0.98                     Combustion Efficiency
+Burner Eff (ηb​)__________0.98_____________________Combustion Efficiency
 
 Nozzle Eff (ηn​)          0.98                     Adiabatic
 
 Author
 Husam Aslan Mechanical Engineer. (PhD)
+
 
 
 
